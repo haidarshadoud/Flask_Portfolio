@@ -20,28 +20,24 @@ A personal portfolio website built with Python and Flask to showcase my projects
 - Jinja2
 - Git and GitHub
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Flask_Portfolio/
+├── app.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── templates/
+│   └── index.html
+└── static/
+    ├── css/
+    │   └── style.css
+    └── images/
 
 
 ## Installation and Setup
 
 ### 1. Clone the repository
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/haidarshadoud/Flask_Portfolio.git
 ### 2. Navigate to the project directory
 
 cd Flask_Portfolio
