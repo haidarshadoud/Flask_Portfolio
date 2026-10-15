@@ -20,6 +20,8 @@ A personal portfolio website built with Python and Flask to showcase my projects
 - Jinja2
 - Git and GitHub
 
+## Project Structure
+```text 
 Flask_Portfolio/
 ├── app.py
 ├── requirements.txt
@@ -31,7 +33,7 @@ Flask_Portfolio/
     ├── css/
     │   └── style.css
     └── images/
-
+```    
 
 ## Installation and Setup
 
